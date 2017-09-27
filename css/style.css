@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+html, body {
+    background-color: grey;
+    height: 100%;
+}
+
+.wrapper {
+    min-height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.h {
+    color: yellow;
+    text-transform: uppercase;
+}
